@@ -1,1 +1,1 @@
-Here is a collection of files I put together or I am working on for the Sovol SV06 and I am sure will work with some tweaking for the SV06 Plus as well.
+Here is a collection of files I put together or I am working on for the Sovol SV06. You will find the stock firmware, Slicer Profiles for Prusa and SuperSlicer, and I included texture and model files I got from https://www.printables.com/model/414041-sovol-sv06-bed-and-texture/ if you would like to add them.
